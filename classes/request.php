@@ -25,6 +25,7 @@ namespace Fuel\Core;
  * @package     Fuel
  * @subpackage  Core
  */
+#[\AllowDynamicProperties]
 class Request
 {
 	/**
