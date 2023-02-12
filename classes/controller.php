@@ -12,6 +12,7 @@
 
 namespace Fuel\Core;
 
+#[\AllowDynamicProperties]
 abstract class Controller
 {
 	/**
